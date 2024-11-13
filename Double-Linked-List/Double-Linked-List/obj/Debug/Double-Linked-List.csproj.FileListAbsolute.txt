@@ -1,0 +1,7 @@
+E:\CSharp_Repo\Double-Linked-List\Double-Linked-List\bin\Debug\Double-Linked-List.exe.config
+E:\CSharp_Repo\Double-Linked-List\Double-Linked-List\bin\Debug\Double-Linked-List.exe
+E:\CSharp_Repo\Double-Linked-List\Double-Linked-List\bin\Debug\Double-Linked-List.pdb
+E:\CSharp_Repo\Double-Linked-List\Double-Linked-List\obj\Debug\Double-Linked-List.csproj.AssemblyReference.cache
+E:\CSharp_Repo\Double-Linked-List\Double-Linked-List\obj\Debug\Double-Linked-List.csproj.CoreCompileInputs.cache
+E:\CSharp_Repo\Double-Linked-List\Double-Linked-List\obj\Debug\Double-Linked-List.exe
+E:\CSharp_Repo\Double-Linked-List\Double-Linked-List\obj\Debug\Double-Linked-List.pdb
